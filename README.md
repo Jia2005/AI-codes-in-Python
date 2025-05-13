@@ -153,9 +153,7 @@ Found a bug? Have a better way to implement something? Open a pull request!
 
 ## ⚠️ Disclaimer
 
-Fair warning: This is college-assignment-level code. It works, it's readable, but it's not winning any optimization awards. 
-
-Think "Toyota Corolla" not "Ferrari" - gets the job done but don't expect miracles.
+Fair warning: This is college-assignment-level code. It works, it's readable, but it's not winning any optimization awards.
 
 ---
 
