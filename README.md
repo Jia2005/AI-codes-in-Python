@@ -25,11 +25,13 @@ Here's the AI stuff I survived implementing:
 
 | Algorithm | Description | File |
 |-----------|-------------|------|
+| **DFS** | Depth-First Search - Goes as deep as possible before backtracking | `DFS_DLS_DFID.py` |
+| **DLS** | Depth-Limited Search - Like DFS but with a "that's deep enough, I'm out" limit | `DFS_DLS_DFID.py` |
+| **DFID** | Depth-First Iterative Deepening - Combines BFS's completeness with DFS's memory efficiency | `DFS_DLS_DFID.py` |
 | **BFS** | Breadth-First Search - Explores all neighbors before going deeper | `BFS_UCS.py` |
-| **DFS** | Depth-First Search - Goes as deep as possible before backtracking | `DFS.py` |
-| **DFID** | Depth-First Iterative Deepening - Combines BFS's completeness with DFS's memory efficiency | `DFID.py` |
 | **UCS** | Uniform Cost Search - Like BFS but considers path costs | `BFS_UCS.py` |
-| **A*** | A-Star - Uses heuristics to find optimal paths efficiently | `A_star.py` |
+| **GBFS** | Greedy Best-First Search - The impatient algorithm that always chases what looks good | `GBFS_Astar.py` |
+| **A*** | A-Star - Uses heuristics to find optimal paths efficiently | `GBFS_Astar.py` |
 
 </details>
 
